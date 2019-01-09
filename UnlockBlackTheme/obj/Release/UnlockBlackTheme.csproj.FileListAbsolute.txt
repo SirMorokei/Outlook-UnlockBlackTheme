@@ -1,0 +1,9 @@
+E:\Development\C#\UnlockBlackTheme\UnlockBlackTheme\bin\Release\UnlockBlackTheme.exe.config
+E:\Development\C#\UnlockBlackTheme\UnlockBlackTheme\bin\Release\UnlockBlackTheme.exe
+E:\Development\C#\UnlockBlackTheme\UnlockBlackTheme\bin\Release\UnlockBlackTheme.pdb
+E:\Development\C#\UnlockBlackTheme\UnlockBlackTheme\obj\Release\UnlockBlackTheme.csproj.CoreCompileInputs.cache
+E:\Development\C#\UnlockBlackTheme\UnlockBlackTheme\obj\Release\UnlockBlackTheme.exe
+E:\Development\C#\UnlockBlackTheme\UnlockBlackTheme\obj\Release\UnlockBlackTheme.pdb
+E:\Development\C#\UnlockBlackTheme\UnlockBlackTheme\obj\Release\UnlockBlackTheme.csprojAssemblyReference.cache
+E:\Development\C#\UnlockBlackTheme\UnlockBlackTheme\obj\Release\UnlockBlackTheme.Properties.Resources.resources
+E:\Development\C#\UnlockBlackTheme\UnlockBlackTheme\obj\Release\UnlockBlackTheme.csproj.GenerateResource.cache
